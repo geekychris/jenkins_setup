@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Jenkins Setup logo" width="180">
+</p>
+
 # Jenkins CI/CD Environment for Java, Python, and Go
 
 This repository contains Docker configuration files to run Jenkins with support for building Java, Python, and Go applications. The setup includes Docker-in-Docker capability and Git webhook integration.
